@@ -1,3 +1,5 @@
+//Составить алгоритм: если введенное число больше 7, то вывести “Привет”
+
 const readline = require('readline');
 
 const rl = readline.createInterface({

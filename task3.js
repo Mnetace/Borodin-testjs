@@ -1,3 +1,6 @@
+//Составить алгоритм: на входе есть числовой массив, необходимо вывести элементы массива кратные 3
+
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
