@@ -1,5 +1,6 @@
 {
   "name": "borodin-testjs",
+  "description": "Test tasks",
   "version": "0.0.1",
    "scripts": {
     "task1": "node task1.js",
